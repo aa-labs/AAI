@@ -1,0 +1,3 @@
+[submodule "extension"]
+	path = extension
+	url = git@github.com:ankurdubey521/bsdk-vscode-extension.git
